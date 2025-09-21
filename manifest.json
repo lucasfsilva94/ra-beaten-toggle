@@ -1,0 +1,16 @@
+{
+  "name": "RA Beaten Toggle",
+  "description": "RA Beaten Toggle is a lightweight Chrome extension that adds a simple checkbox to the RA page. When enabled, it hides all 'beaten' games from view, allowing you to focus only on what's left. Uncheck it anytime to bring the hidden beaten games back instantly.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://retroachievements.org/user/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_icon": "ra-beaten-toggle.png"
+  }  
+}
