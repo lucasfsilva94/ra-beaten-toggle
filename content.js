@@ -6,7 +6,7 @@ function toggleUserBeatenSetsVisibility() {
   const isChecked = checkbox.checked;
   localStorage.setItem('ra-hide-beaten', isChecked ? 'true' : 'false');
 
-  const markers = root.querySelectorAll('[title="Beaten"]');
+  const markers = root.querySelectorAll('[title*="Beaten"]');
   const containers = new Set();
 
   markers.forEach(marker => {
