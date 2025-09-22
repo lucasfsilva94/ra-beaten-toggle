@@ -16,7 +16,7 @@ Uncheck it anytime to bring them back.
 
 ## ⚙️ Features
 - Adds a "Hide beaten games" checkbox to the completed games section.  
-- Dynamically hides/shows items with `title="Beaten"`.  
+- Dynamically hides/shows items with `title*="Beaten"`.  
 - Saves user preference using `localStorage`, keeping the state after page reload.  
 - Keeps the original "Hide completed games" checkbox side by side with the new control.  
 
@@ -24,7 +24,7 @@ Uncheck it anytime to bring them back.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ra-beaten-toggle.git
+   git clone https://github.com/lucasfsilva94/ra-beaten-toggle.git
 
 2. Open Google Chrome and go to:
    ```bash
