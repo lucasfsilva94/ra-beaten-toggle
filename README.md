@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="retroachievements" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22107794/492061015-3eaa57c4-d2b0-4b18-a577-78a109bbeb2c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250921T212210Z&X-Amz-Expires=300&X-Amz-Signature=158cb45519ca2ff4ca29fe942b4a01f5ee0b595b3b2293f910d69e365e9e203f&X-Amz-SignedHeaders=host"/>
+    <img alt="retroachievements" src="https://github.com/user-attachments/assets/7abac26d-1c72-4323-aa97-1873d0e5bca5"/>
 </p>
 
 <div align="center">
